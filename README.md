@@ -1,2 +1,2 @@
 # training
-LinkedIN learnin kurzus feladatai
+LinkedIN learnin kurzus feladatai, fork-al lemasoltam.Ez masra lesz
